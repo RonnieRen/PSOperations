@@ -32,7 +32,6 @@
 		1D9B435D1B6A934A008F7F18 /* LocationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433E1B6A934A008F7F18 /* LocationCondition.swift */; };
 		1D9B435E1B6A934A008F7F18 /* CalendarCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B433F1B6A934A008F7F18 /* CalendarCondition.swift */; };
 		1D9B435F1B6A934A008F7F18 /* PhotosCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43401B6A934A008F7F18 /* PhotosCondition.swift */; };
-		1D9B43601B6A934A008F7F18 /* HealthCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43411B6A934A008F7F18 /* HealthCondition.swift */; };
 		1D9B43611B6A934A008F7F18 /* RemoteNotificationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43421B6A934A008F7F18 /* RemoteNotificationCondition.swift */; };
 		1D9B43621B6A934A008F7F18 /* UserNotificationCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43431B6A934A008F7F18 /* UserNotificationCondition.swift */; };
 		1D9B43631B6A934A008F7F18 /* Dictionary+Operations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9B43441B6A934A008F7F18 /* Dictionary+Operations.swift */; };
@@ -47,7 +46,6 @@
 		55AE64CF1BC175190097F4A5 /* iCloudContainerCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64CE1BC175190097F4A5 /* iCloudContainerCapability.swift */; };
 		55AE64D21BC180570097F4A5 /* LocationCapability-tvOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D11BC180570097F4A5 /* LocationCapability-tvOS.swift */; };
 		55AE64D41BC180650097F4A5 /* LocationCapability-OSX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D31BC180650097F4A5 /* LocationCapability-OSX.swift */; };
-		55AE64D61BC19E330097F4A5 /* HealthCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D51BC19E330097F4A5 /* HealthCapability.swift */; };
 		55AE64DA1BC1C7430097F4A5 /* PushCapability-iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64D91BC1C7430097F4A5 /* PushCapability-iOS.swift */; };
 		55AE64DC1BC1C7E50097F4A5 /* PushCapability-OSX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64DB1BC1C7E50097F4A5 /* PushCapability-OSX.swift */; };
 		55AE64DE1BC1DCF50097F4A5 /* UserNotificationCapability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55AE64DD1BC1DCF50097F4A5 /* UserNotificationCapability.swift */; };
@@ -568,9 +566,7 @@
 				55AE64D21BC180570097F4A5 /* LocationCapability-tvOS.swift in Sources */,
 				1D9B43541B6A934A008F7F18 /* OperationErrors.swift in Sources */,
 				55AE64CB1BC173560097F4A5 /* PassbookCapability.swift in Sources */,
-				55AE64D61BC19E330097F4A5 /* HealthCapability.swift in Sources */,
 				1D9B43561B6A934A008F7F18 /* SilentCondition.swift in Sources */,
-				1D9B43601B6A934A008F7F18 /* HealthCondition.swift in Sources */,
 				1D9B43661B6A934A008F7F18 /* UIUserNotifications+Operations.swift in Sources */,
 				1D9B435A1B6A934A008F7F18 /* ReachabilityCondition.swift in Sources */,
 				55AE64D41BC180650097F4A5 /* LocationCapability-OSX.swift in Sources */,
